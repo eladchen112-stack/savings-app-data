@@ -1,25 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-02T17:00:29Z",
+  "generatedAt": "2026-11-02T18:31:13Z",
   "benefits": [
-    {
-      "id": "ashmoret:terminal-x",
-      "storeId": "terminal-x",
-      "type": "loaded_card",
-      "title": "שלם בכרטיס אשמורת: 20% הנחה",
-      "requires": [
-        "ashmoret"
-      ],
-      "discount": {
-        "kind": "percent",
-        "value": 20
-      },
-      "validOnline": "unknown",
-      "sourceUrl": "https://www.ashmoret.co.il",
-      "lastVerified": "2026-10-31",
-      "notes": "SAMPLE",
-      "source": "manual"
-    },
     {
       "id": "dream-card-vip:fox",
       "storeId": "fox",
@@ -41,7 +23,7 @@
       "id": "dream-card-vip:terminal-x",
       "storeId": "terminal-x",
       "type": "cobrand_card",
-      "title": "שלם ב-Dream Card VIP: 15% בנקודות",
+      "title": "חברי Dream Card VIP: 15% חוזר בנקודות",
       "requires": [
         "dream-card-vip"
       ],
@@ -50,44 +32,29 @@
         "value": 15
       },
       "validOnline": "yes",
-      "sourceUrl": "https://fox.co.il/pages/dream-card-%D7%94%D7%98%D7%91%D7%95%D7%AA-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F",
-      "lastVerified": "2026-10-31",
+      "stacksWithCoupons": false,
+      "sourceUrl": "https://www.terminalx.com/help-dc-vip",
+      "lastVerified": "2026-11-02",
+      "notes": "Checked on terminalx.com help page 2026-11-02: '15% צבירת נקודות מסכום התשלום בפועל'. Club benefits do not stack with other promotions (page: 'ללא כפל מבצעים'). Needs login with the club ID on the site.",
       "source": "manual"
     },
     {
-      "id": "hever-keva:fox",
-      "storeId": "fox",
-      "type": "loaded_card",
-      "title": "שלם בכרטיס הנטען של חבר: 35% הנחה",
-      "requires": [
-        "hever-keva"
-      ],
-      "discount": {
-        "kind": "percent",
-        "value": 35
-      },
-      "validOnline": "yes",
-      "sourceUrl": "https://www.hvr.co.il",
-      "lastVerified": "2026-10-31",
-      "notes": "SAMPLE - verify from official source",
-      "source": "manual"
-    },
-    {
-      "id": "hever-keva:terminal-x",
+      "id": "dream-card:terminal-x",
       "storeId": "terminal-x",
-      "type": "loaded_card",
-      "title": "שלם בכרטיס הנטען של חבר: 35% הנחה",
+      "type": "cobrand_card",
+      "title": "חברי Dream Card: 10% חוזר בנקודות",
       "requires": [
-        "hever-keva"
+        "dream-card"
       ],
       "discount": {
-        "kind": "percent",
-        "value": 35
+        "kind": "points_percent",
+        "value": 10
       },
       "validOnline": "yes",
-      "sourceUrl": "https://www.hvr.co.il",
-      "lastVerified": "2026-10-31",
-      "notes": "SAMPLE",
+      "stacksWithCoupons": false,
+      "sourceUrl": "https://www.terminalx.com/help-dc-vip",
+      "lastVerified": "2026-11-02",
+      "notes": "Checked on terminalx.com help page 2026-11-02: '10% צבירת נקודות מסכום התשלום בפועל'. Club benefits do not stack with other promotions (page: 'ללא כפל מבצעים'). Needs login with the club ID on the site.",
       "source": "manual"
     },
     {
