@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "lastRun": {
+    "finished": "2026-11-14T15:43:53Z",
+    "runId": 43608405311,
+    "trigger": "manual",
+    "result": "success"
+  },
+  "lastSuccess": "2026-11-14T15:43:53Z",
+  "lastSuccessIsrael": "2026-11-14 17:43",
+  "runId": 43608405311,
+  "benefitCount": 1029,
+  "tableCells": 1053,
+  "voucherRows": 612
+}
