@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
   "lastRun": {
-    "finished": "2026-11-20T13:07:56Z",
-    "runId": 44737965099,
+    "finished": "2026-11-20T22:09:46Z",
+    "runId": 44825474683,
     "trigger": "external",
-    "result": "success"
+    "result": "failure",
+    "sitesRead": true
   },
   "lastSuccess": "2026-11-20T13:07:56Z",
   "lastSuccessIsrael": "2026-11-20 15:07",
