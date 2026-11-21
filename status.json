@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "lastRun": {
-    "finished": "2026-11-21T05:43:13Z",
-    "runId": 44872106053,
-    "trigger": "watchdog",
+    "finished": "2026-11-21T08:03:01Z",
+    "runId": 44882953239,
+    "trigger": "external",
     "result": "failure",
-    "sitesRead": true
+    "sitesRead": false
   },
   "lastSuccess": "2026-11-20T23:42:22Z",
   "lastSuccessIsrael": "2026-11-21 01:42",
