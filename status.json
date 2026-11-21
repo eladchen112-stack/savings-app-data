@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "lastRun": {
-    "finished": "2026-11-21T04:43:05Z",
-    "runId": 44867376992,
-    "trigger": "external",
+    "finished": "2026-11-21T05:43:13Z",
+    "runId": 44872106053,
+    "trigger": "watchdog",
     "result": "failure",
     "sitesRead": true
   },
