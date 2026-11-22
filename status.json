@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "lastRun": {
-    "finished": "2026-11-21T22:37:20Z",
-    "runId": 44954590543,
+    "finished": "2026-11-22T05:08:26Z",
+    "runId": 44986198098,
     "trigger": "external",
     "result": "success",
     "sitesRead": true
   },
-  "lastSuccess": "2026-11-21T22:37:20Z",
-  "lastSuccessIsrael": "2026-11-22 00:37",
-  "runId": 44954590543,
+  "lastSuccess": "2026-11-22T05:08:26Z",
+  "lastSuccessIsrael": "2026-11-22 07:08",
+  "runId": 44986198098,
   "benefitCount": 1086,
   "tableCells": 1114,
   "voucherRows": 612,
@@ -23,6 +23,6 @@
     "vanished": 0,
     "confirmed": 427
   },
-  "lastSuccessSlot": "2026-11-21T22:00:00Z",
+  "lastSuccessSlot": "2026-11-22T04:40:00Z",
   "lastSuccessTrigger": "external"
 }
