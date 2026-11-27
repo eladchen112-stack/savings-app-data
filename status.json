@@ -1,31 +1,29 @@
 {
   "schemaVersion": 1,
   "lastRun": {
-    "finished": "2026-11-27T13:18:45Z",
-    "runId": 46000824753,
+    "finished": "2026-11-27T22:57:03Z",
+    "runId": 46074072482,
     "trigger": "external",
     "result": "success",
     "sitesRead": true
   },
-  "lastSuccess": "2026-11-27T13:18:45Z",
-  "lastSuccessIsrael": "2026-11-27 15:18",
-  "runId": 46000824753,
+  "lastSuccess": "2026-11-27T22:57:03Z",
+  "lastSuccessIsrael": "2026-11-28 00:57",
+  "runId": 46074072482,
   "benefitCount": 1148,
   "tableCells": 1168,
   "voucherRows": 677,
   "clubLists": {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "lists": 10,
-    "read": 9,
-    "failed": [
-      "discount"
-    ],
+    "read": 10,
+    "failed": [],
     "added": 0,
     "changed": 1,
     "vanished": 0,
-    "confirmed": 444
+    "confirmed": 454
   },
-  "lastSuccessSlot": "2026-11-27T12:40:00Z",
+  "lastSuccessSlot": "2026-11-27T22:00:00Z",
   "lastSuccessTrigger": "external",
   "poppableCount": 649,
   "coverage": {
