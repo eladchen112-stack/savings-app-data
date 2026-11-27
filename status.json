@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
   "lastRun": {
-    "finished": "2026-11-27T08:04:14Z",
-    "runId": 45962582534,
+    "finished": "2026-11-27T13:18:45Z",
+    "runId": 46000824753,
     "trigger": "external",
     "result": "success",
-    "sitesRead": false
+    "sitesRead": true
   },
-  "lastSuccess": "2026-11-27T08:04:14Z",
-  "lastSuccessIsrael": "2026-11-27 10:04",
-  "runId": 45962582534,
-  "benefitCount": 1151,
-  "tableCells": 1171,
-  "voucherRows": 674,
+  "lastSuccess": "2026-11-27T13:18:45Z",
+  "lastSuccessIsrael": "2026-11-27 15:18",
+  "runId": 46000824753,
+  "benefitCount": 1148,
+  "tableCells": 1168,
+  "voucherRows": 677,
   "clubLists": {
     "date": "2026-11-27",
     "lists": 10,
@@ -25,12 +25,12 @@
     "vanished": 0,
     "confirmed": 444
   },
-  "lastSuccessSlot": "2026-11-27T08:00:00Z",
+  "lastSuccessSlot": "2026-11-27T12:40:00Z",
   "lastSuccessTrigger": "external",
   "poppableCount": 649,
   "coverage": {
     "online": 9.1,
-    "withShops": 15.8,
+    "withShops": 15.7,
     "target": 30.0
   }
 }
